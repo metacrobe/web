@@ -1,0 +1,16 @@
+---
+- group: Curriculum Vitae
+  items:
+    - title: <b>Curriculum Vitae</b><br/> A link a to my CV. You can download a PDF version <a href="https://github.com/istmobiome/istmobiome.github.io/raw/master/jarrod/jarrod-cv.pdf" download="jarrod-cv.pdf"> <b>by clicking here</b></a> <br/>
+      url: https://istmobiome.github.io/jarrod/jarrod-cv.html
+      icon: fas fa-dna
+- group: Outreach Portfolio
+  items:
+    - title: <b>Outreach Portfolio</b> <br/> A collection of websites I created for my public lectures, courses, & publications.
+      url: https://metacrobe.github.io/ccmi/index.html
+      icon: fas fa-chalkboard-teacher
+- group: GitHub
+  items:
+    - title: <b>GitHub</b><br/>Link to my GitHub site.<br/><br/>
+      url: https://github.com/jarrodscott
+      icon: fab fa-github
