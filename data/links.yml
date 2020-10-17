@@ -7,7 +7,7 @@
 - group: Outreach Portfolio
   items:
     - title: <b>Outreach Portfolio</b> <br/> A collection of websites I created for my public lectures, courses, & publications.
-      url: https://metacrobe.github.io/outreac/index.html
+      url: https://metacrobe.github.io/outreach/index.html
       icon: fas fa-chalkboard-teacher
 - group: GitHub
   items:
